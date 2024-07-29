@@ -1,0 +1,45 @@
+Script started on Mon Jul 29 18:54:05 2024
+[1m[7m%[27m[1m[0m                                                                         [0m[27m[24m[J
+[1m[33m18:54:05[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[?2004h[3A[0m[27m[24m[J
+[1m[33m18:54:05[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[3A[0m[27m[24m[J
+[1m[33m18:54:05[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mon [0m[1m[37m[1m[37m[35m main[0m[35m[39m[1m[31m [?][0m[31m[39m[0m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[3A[0m[27m[24m[J
+[1m[33m18:54:05[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mon [0m[1m[37m[1m[37m[35m main[0m[35m[39m[1m[31m [?][0m[31m[39m[0m[39m[1m [0m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[7mdocker run -it ubuntu bash[27m[26D[27md[27mo[27mc[27mk[27me[27mr[27m [27mr[27mu[27mn[27m [27m-[27mi[27mt[27m [27mu[27mb[27mu[27mn[27mt[27mu[27m [27mb[27ma[27ms[27mh[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2Keed1663d2238: Pulling fs layer [1B[1A[2Keed1663d2238: Downloading  293.1kB/28.84MB[1B[1A[2Keed1663d2238: Downloading  1.469MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  2.661MB/28.84MB[1B[1A[2Keed1663d2238: Downloading   3.25MB/28.84MB[1B[1A[2Keed1663d2238: Downloading   3.84MB/28.84MB[1B[1A[2Keed1663d2238: Downloading   4.43MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  5.311MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  6.499MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  7.686MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  9.157MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  10.62MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  11.81MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  13.31MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  14.78MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  16.26MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  17.44MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  18.63MB/28.84MB[1B[1A[2Keed1663d2238: Downloading   20.1MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  21.28MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  22.76MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  23.94MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  25.41MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  26.58MB/28.84MB[1B[1A[2Keed1663d2238: Downloading  28.06MB/28.84MB[1B[1A[2Keed1663d2238: Verifying Checksum [1B[1A[2Keed1663d2238: Download complete [1B[1A[2Keed1663d2238: Extracting  294.9kB/28.84MB[1B[1A[2Keed1663d2238: Extracting  7.373MB/28.84MB[1B[1A[2Keed1663d2238: Extracting  12.68MB/28.84MB[1B[1A[2Keed1663d2238: Extracting   23.3MB/28.84MB[1B[1A[2Keed1663d2238: Extracting  24.48MB/28.84MB[1B[1A[2Keed1663d2238: Extracting  28.31MB/28.84MB[1B[1A[2Keed1663d2238: Extracting  28.84MB/28.84MB[1B[1A[2Keed1663d2238: Pull complete [1BDigest: sha256:2e863c44b718727c860746568e1d54afd13b2fa71b160f5cd9058fc436217b30
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@36263807f804: /root@36263807f804:/# ls
+[?2004l[0m[01;36mbin[0m   [01;34mdev[0m  [01;34mhome[0m  [01;34mmedia[0m  [01;34mopt[0m   [01;34mroot[0m  [01;36msbin[0m  [01;34msys[0m  [01;34musr[0m
+[01;34mboot[0m  [01;34metc[0m  [01;36mlib[0m   [01;34mmnt[0m    [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+[?2004h]0;root@36263807f804: /root@36263807f804:/# cd usr/src/
+[?2004l[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# la s
+[?2004l[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# ls 
+[?2004l[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# ls -lash
+[?2004ltotal 8.0K
+4.0K drwxr-xr-x  2 root root 4.0K Apr 22 13:08 [0m[01;34m.[0m
+4.0K drwxr-xr-x 11 root root 4.0K Jun  5 02:05 [01;34m..[0m
+[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# mkdir app
+[?2004l[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# ls
+[?2004l[0m[01;34mapp[0m
+[?2004h]0;root@36263807f804: /usr/srcroot@36263807f804:/usr/src# cd app
+[?2004l[?2004h]0;root@36263807f804: /usr/src/approot@36263807f804:/usr/src/app# mkdir       touch index.js
+[?2004l[?2004h]0;root@36263807f804: /usr/src/approot@36263807f804:/usr/src/app# ls
+[?2004lindex.js
+[?2004h]0;root@36263807f804: /usr/src/approot@36263807f804:/usr/src/app# exit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                         [0m[27m[24m[J
+[1m[33m18:55:57[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mtook [0m[1m[33m1m 27.5s[0m[33m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[?2004h[3A[0m[27m[24m[J
+[1m[33m18:55:57[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mtook [0m[1m[33m1m 27.5s[0m[33m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[3A[0m[27m[24m[J
+[1m[33m18:55:57[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mon [0m[1m[37m[1m[37m[35m main[0m[35m[39m[1m[31m [?][0m[31m[39m[0m[39m[1m [0m[1mtook [0m[1m[33m1m 27.5s[0m[33m[39m[1m [0m[1m[39m…[0m[39m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70D[3A[0m[27m[24m[J
+[1m[33m18:55:57[0m[33m[39m[1m [0m[1mwith [0m[1m[33mangelivanov[0m[33m[39m[1m [0m[1min [0m[1m[36mrepos/part12-containers-applications/script-answers[0m[36m[39m[1m [0m[1mon [0m[1m[37m[1m[37m[35m main[0m[35m[39m[1m[31m [?][0m[31m[39m[0m[39m[1m [0m[1mtook [0m[1m[33m1m 27.5s[0m[33m[39m[1m [0m[1m[37m
+[0m[37m[39m[1m[32m➜ [0m[32m[39m[K[70C[1A[1B[70Deexit[?2004l
+
+Script done on Mon Jul 29 18:56:02 2024
