@@ -6,8 +6,8 @@ COPY --chown=node:node . .
 
 RUN npm ci --omit=dev
 
-ENV DEBUG=playground:*
+ENV DEBUG=todo-backend:*
 
 USER node
 
-CMD  npm start
+CMD npm start
